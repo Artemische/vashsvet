@@ -1,0 +1,56 @@
+[
+  {
+    "id": "jardin",
+    "name": "Jardin",
+    "brand": "LOFT IT",
+    "sku": "10121/D Dark grey",
+    "category": "Подвесные светильники",
+    "image": "jardin.jpg",
+    "source": "https://vashsvet.by/10121d-dark-grey-podvesnoj-svetilnik-loft-it-jardin"
+  },
+  {
+    "id": "lamp-0",
+    "name": "Hilton · никель",
+    "brand": "LOFT IT",
+    "sku": "10527T Nickel",
+    "category": "Настольные лампы",
+    "image": "lamp-0.jpg",
+    "source": "https://vashsvet.by/nastolnye-lampy/"
+  },
+  {
+    "id": "lamp-1",
+    "name": "Hilton · латунь",
+    "brand": "LOFT IT",
+    "sku": "10527T Brass",
+    "category": "Настольные лампы",
+    "image": "lamp-1.jpg",
+    "source": "https://vashsvet.by/nastolnye-lampy/"
+  },
+  {
+    "id": "lamp-2",
+    "name": "Bergamo",
+    "brand": "Maytoni",
+    "sku": "MOD613TL-02W",
+    "category": "Настольные лампы",
+    "image": "lamp-2.jpg",
+    "source": "https://vashsvet.by/nastolnye-lampy/"
+  },
+  {
+    "id": "lamp-3",
+    "name": "Misterio",
+    "brand": "Maytoni",
+    "sku": "MOD379TL-L4B3K",
+    "category": "Настольные лампы",
+    "image": "lamp-3.jpg",
+    "source": "https://vashsvet.by/nastolnye-lampy/"
+  },
+  {
+    "id": "lamp-4",
+    "name": "Freya",
+    "brand": "Freya",
+    "sku": "FR5623TL-01CR",
+    "category": "Настольные лампы",
+    "image": "lamp-4.jpg",
+    "source": "https://vashsvet.by/nastolnye-lampy/"
+  }
+]
